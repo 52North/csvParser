@@ -1,0 +1,29 @@
+{
+    "blogURL": "https://crunchify.com",
+    "twitter": "https://twitter.com/Crunchify",
+    "social": {
+        "facebook": "http://facebook.com/Crunchify",
+        "pinterest": "https://www.pinterest.com/Crunchify/crunchify-articles",
+        "rss": "http://feeds.feedburner.com/Crunchify",
+        "test": [
+            {
+                "Name": "crunchify.com",
+                "Author": "App Shah",
+                "Company List": [
+                    "Company: eBay",
+                    "Company: Paypal",
+                    "Company: Google"
+                ]
+            },
+            {
+                "Name": "crunchify.com2",
+                "Author": "App Shah2",
+                "Company List": [
+                    "Company: eBay2",
+                    "Company: Paypal2",
+                    "ZCompany: Google"
+                ]
+            }
+        ]
+    }
+}
